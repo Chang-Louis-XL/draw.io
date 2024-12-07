@@ -65,7 +65,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8SlkgtAjFKEi0TtIdIo-24" value="點選購物車方案" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="D8SlkgtAjFKEi0TtIdIo-24" value="進入購物車方案" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="410" y="250" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D8SlkgtAjFKEi0TtIdIo-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D8SlkgtAjFKEi0TtIdIo-30" target="D8SlkgtAjFKEi0TtIdIo-38">
